@@ -8,7 +8,7 @@
 Вспомогательные таблицы с маппингом внутренних id на названия категорий и так далее.
 # Образ результата
 В качестве решения ожидается созданная модель вместе с кодом, метрики качества и описание решения.
-# Данные
+# Данные в .csv
 https://drive.google.com/drive/folders/1flNzCeekJ4AkXTY8i0mlIoxf6W-bzBi9?usp=drive_link
-# Разбивка категорий сайтов
+# Разбивка категорий сайтов .csv
 https://drive.google.com/drive/folders/1CTzyjIhzB6f914vB9p0gskT9k8jKKXui?usp=drive_link
